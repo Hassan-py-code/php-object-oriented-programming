@@ -1,0 +1,11 @@
+
+
+
+
+
+Class is model the defines  properties and method
+
+
+A simple  Article class is i created with :
+title and content as properties
+display() method to display article information
